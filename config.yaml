@@ -1,0 +1,6 @@
+path: C:\Users\Owner\dev\learning\RON_square_city\data
+train: images
+val: images
+
+names:
+  0: square
